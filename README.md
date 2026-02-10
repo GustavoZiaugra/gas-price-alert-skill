@@ -151,7 +151,7 @@ MIT License - Use freely for personal and commercial purposes.
 
 ## Credits
 
-Created by **Gustavo (Cleber)** with OpenClaw
+Created by **Gustavo (GustavoZiaugra)** with OpenClaw
 - OpenStreetMap for station data
 - Geopy for geocoding
 - Requests for HTTP handling
@@ -161,3 +161,7 @@ Created by **Gustavo (Cleber)** with OpenClaw
 **Find this and more OpenClaw skills at ClawHub.com**
 
 ⭐ **Star this repository if you find it useful!**
+
+## License
+
+MIT License - See LICENSE file for details.
